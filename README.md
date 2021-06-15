@@ -8,11 +8,11 @@
 
 # Descrição dos Códigos
 + Bots - *Scripts* de extração e tratamento de dados de artigos e autores
-    + Bots\annals.py - artigos do periódico Annals
-    + Bots\jama.py - artigos do periódico JAMA
-    + Bots\plos.py - artigos do periódico PLoS
-    + Bots\authors.py - dados de autores via API Elsevier (Scopus)
-    + Bots\parser.py - conversão dos dados extraídos do Scopus
+    + annals.py - artigos do periódico Annals
+    + jama.py - artigos do periódico JAMA
+    + plos.py - artigos do periódico PLoS
+    + authors.py - dados de autores via API Elsevier (Scopus)
+    + parser.py - conversão dos dados extraídos do Scopus
 
 + Contribution - *Scripts* para extração e procesamento das **contribuições** dos autores
     + annals.py - contribuições do Annals
