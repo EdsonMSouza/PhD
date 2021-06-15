@@ -1,6 +1,6 @@
 # Códigos desenvolvidos ao longo da tese de doutorado
 
-**Título da tese**: Aplicação de Ciência de Dados na análise do Posicionamento Autoral e Contribuições Científicas em Artigos
+**Título**: Aplicação de Ciência de Dados na análise do Posicionamento Autoral e Contribuições Científicas em Artigos
 
 **Autor**: Edson Melo de Souza, Me.
 
